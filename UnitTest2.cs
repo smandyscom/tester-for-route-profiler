@@ -32,6 +32,7 @@ namespace FittingTester
             //                   |--Leaf24
 
             Data __root00 = new Data(){ generation=0, order=0 };
+
         }
     }
 }
